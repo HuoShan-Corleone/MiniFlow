@@ -1,2 +1,2 @@
 # MiniFlow
-you'll gain a understanding of differentiable graphs
+you'll gain a understanding of differentiable graphs and backpropagation
